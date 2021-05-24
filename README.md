@@ -1,1 +1,1 @@
-# it-incubator-test
+# Решение тестового задания для поступления в IT Incubator

@@ -1,1 +1,15 @@
-/* No CSS */
+.main {
+  padding-top: 80px;
+  text-align: center;
+}
+
+.main__input {
+  padding: 10px;
+  width: 200px;
+  border: 1px solid tomato;
+}
+
+.main__btn {
+  background-color: yellowgreen;
+  padding: 10px;
+}
